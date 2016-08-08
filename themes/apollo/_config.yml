@@ -1,8 +1,8 @@
 menu:
     Blog: /
     Archive: /archives/
-    GitHub: https://github.com/gralance
     Resume: "/resume/"
+    GitHub: https://github.com/gralance
     Rss: /atom.xml
 
 favicon: /favicon.png
@@ -15,7 +15,7 @@ duoshuo:
 
 # Analytics
 # google-analytics:
-ga: UA-65933410-1
+ga: UA-82107277-1
 
 # Copyright Infomation
 startyear: 2015
