@@ -1,8 +1,3 @@
----
-title: Resume
-date: 2016-08-14 17:50:12
-tags:
----
 ## 鄭  樂 Lance Cheng
 >E-mail: j741119@gmail.com 網站: http://gralance.github.io Github: https://github.com/gralance
 
