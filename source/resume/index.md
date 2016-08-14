@@ -1,14 +1,9 @@
 ---
 title: Resume
-date: 2016-08-08 03:42:12
+date: 2016-08-14 17:50:12
 tags:
 ---
-
-個人履歷
-
-<!--more-->
-
-# 鄭  樂 Lance Cheng
+## 鄭  樂 Lance Cheng
 >E-mail: j741119@gmail.com 網站: http://gralance.github.io Github: https://github.com/gralance
 
 ## 摘要
@@ -24,20 +19,18 @@ Electron - cross platform dekstop app
 Version control: git , gitlab , sourceTree
 Project management: Jira
 Toolset: angularJs , gulp, npm, bower , coffeescript, sass, jade
-Customization Tool - nodejs, async, non-blocking, event-driven design
-Ruby on rails: E-mail template sync tool, RESTful testing tool by Restclient
+Ruby on rails: ejs version control, RESTful testing tool by Restclient
 Test framework: protractor, jasmine, sikuli
 
 2014 ~ 2015 唯晶數位娛樂股份有限公司 - 全端工程師
 手機遊戲 : 角頭 , 使用Unity3d, 6個月完成, 14萬使用者註冊, 程式團隊5人
-帶領 2 位同仁於2周內完成一項舊專案的金流串接,登入渠道串接,送達 ios app store 審查
-擴展 nGUI Grid 元件, 解決因GUI元件數量過多 fps 低下, 方法: virtual mode, collection repeat
+帶領 2 位同仁於2周內完成一項舊專案的金流串接,登入渠道串接
+擴展 nGUI Grid 元件, 使fps穩定保持60
+MySQL 效能優化, 120sec -> 2sec
+Unity3D : 戰鬥場景AI,角色移動,PVP,倉庫,技能,好友,寶物收藏,戰鬥場景等UI
+SDK: Facebook 登入,帳號綁定, iOS, Google 應用程式內購買(包含後端的金流驗證)
+大陸第三方渠道的登入,應用程式內購買SDK串接
 前端: jQuery (網站前端,Javascript, jqGrid for 後臺管理工具)
-MySQL 效能優化, (120sec -> 2sec), Stored Procedure
-Unity3D  : 戰鬥場景AI, 角色移動, PVP系統, 倉庫,技能升級, 好友 , 寶物收藏,戰鬥場景等UI
-Facebook 登入,帳號綁定
-iOS, Google 應用程式內購買(包含後端的金流驗證)
-大陸第三方渠道的登入,應用程式內購買SDK串接, 使用 xcode(objective-c) , android studio(java)
 後端: Nginx/php-fpm configuration
 對 Server 做壓力測試, 使用 gatling
 
@@ -52,3 +45,4 @@ iOS, Google 應用程式內購買(包含後端的金流驗證)
 2004/09 ~ 2008/06 國立台灣大學 資訊工程系
 2001/09 ~ 2004/06 國立師大附中 數理實驗班 班號1033
 
+<!--more-->
