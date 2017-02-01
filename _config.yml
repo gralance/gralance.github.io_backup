@@ -76,4 +76,4 @@ backup:
     type: git
     theme: apollo
     repository:
-       github: git@github.com:gralance/gralance.github.io.git,dev
+       dev: git@github.com:gralance/gralance.github.io.git,dev
