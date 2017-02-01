@@ -1,12 +1,12 @@
 menu:
     Blog: /
     Archive: /archives/
-    Resume: "/resume/"
+    Linkedin: https://tw.linkedin.com/in/lance-cheng-33532b5
     GitHub: https://github.com/gralance
     Rss: /atom.xml
 
 favicon: /favicon.png
-logo: /favicon.png
+
 
 # Comment
 # e.g disqus: seansun
